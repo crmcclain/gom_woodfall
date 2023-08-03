@@ -1,167 +1,172 @@
-ID,Group
-xylo-1,Xylophaga
-xylo-2,Xylophaga
-xylo-3,Xylophaga
-xylo-5,Xylophaga
-xylo-7,Xylophaga
-xylo-9,Xylophaga
-xylo-10,Xylophaga
-xylo-11,Xylophaga
-xylo-12,Xylophaga
-xylo-13,Xylophaga
-xylo-15,Xylophaga
-xylo-16,Xylophaga
-gas-1,Gastropod
-gas-2,Gastropod
-gas-3,Gastropod
-gas-4,Gastropod
-gas-6,Gastropod
-gas-7,Gastropod
-gas-8,Gastropod
-gas-9,Gastropod
-gas-10,Gastropod
-gas-11,Gastropod
-limp-1,Gastropod
-limp-3,Gastropod
-limp-4,Gastropod
-limp-5,Gastropod
-limp-6,Gastropod
-biv-1,Bivalve
-biv-2,Bivalve
-biv-3,Bivalve
-biv-4,Bivalve
-idas-1,Bivalve
-idas-3,Bivalve
-polyplac-1,Mollusc
-aplac-1,Mollusc
-aplac-2,Mollusc
-poly-1,Polychaetea
-poly-2,Polychaetea
-poly-3,Polychaetea
-poly-4,Polychaetea
-poly-5,Polychaetea
-poly-6,Polychaetea
-poly-7,Polychaetea
-poly-8,Polychaetea
-poly-10,Polychaetea
-poly-11,Polychaetea
-poly-12,Polychaetea
-poly-13,Polychaetea
-poly-14,Polychaetea
-poly-15,Polychaetea
-poly-16,Polychaetea
-poly-18,Polychaetea
-poly-19,Polychaetea
-poly-20,Polychaetea
-poly-21,Polychaetea
-poly-22,Polychaetea
-poly-24,Polychaetea
-poly-25,Polychaetea
-poly-26,Polychaetea
-poly-29,Polychaetea
-poly-30,Polychaetea
-poly-31,Polychaetea
-poly-35,Polychaetea
-poly-36,Polychaetea
-poly-39,Polychaetea
-poly-41,Polychaetea
-poly-42,Polychaetea
-poly-43,Polychaetea
-poly-45,Polychaetea
-poly-46,Polychaetea
-poly-47,Polychaetea
-poly-49,Polychaetea
-poly-51,Polychaetea
-poly-53,Polychaetea
-poly-54,Polychaetea
-poly-55,Polychaetea
-poly-57,Polychaetea
-poly-62,Polychaetea
-poly-63,Polychaetea
-poly-64,Polychaetea
-poly-66,Polychaetea
-poly-67,Polychaetea
-poly-68,Polychaetea
-poly-69,Polychaetea
-poly-71,Polychaetea
-poly-72,Polychaetea
-poly-73,Polychaetea
-poly-74,Polychaetea
-poly-76,Polychaetea
-poly-78,Polychaetea
-poly-79,Polychaetea
-poly-80,Polychaetea
-poly-81,Polychaetea
-poly-82,Polychaetea
-poly-83,Polychaetea
-poly-84,Polychaetea
-poly-85,Polychaetea
-poly-86,Polychaetea
-poly-88,Polychaetea
-poly-89,Polychaetea
-poly-90,polychaetea
-poly-91,polychaetea
-poly-92,polychaetea
-poly-93,polychaetea
-poly-94,polychaetea
-poly-95,polychaetea
-poly-96,polychaetea
-poly-97,polychaetea
-sib-1,Polychaeta
-ech-1,Worms
-oli-1,Worms
-sip-1,Worms
-sip-6,Worms
-sip-7,Worms
-sip-8,Worms
-nem-1,Worms
-nem-2,Worms
-nem-3,Worms
-nem-4,Worms
-nem-5,Worms
-platy-1,Platyhelminth
-ast-1,Echinoderm
-oph-1,Echinoderm
-ophi-2,Echinoderm
-ophi-3,Echinoderm
-holo-1,Echinoderm
-holo-2,Echinoderm
-holo-3,Echinoderm
-holo-4,Echinoderm
-holo-5,Echinoderm
-hyd-1,Cnidaria
-hyd-2,Cnidaria
-hyd-3,Cnidaria
-mys-1,Crustacean
-ost-1,Crustacean
-tan-1,Crustacean
-tan-2,Crustacean
-tan-3,Crustacean
-tan-4,Crustacean
-tan-5,Crustacean
-amph-1,Crustacean
-amph-2,Crustacean
-amph-7,Crustacean
-amph-9,Crustacean
-amph-10,Crustacean
-amph-11,Crustacean
-amph-12,Crustacean
-amph-13,Crustacean
-gal-1,Crustacean
-iso-1,Crustacean
-iso-2,Crustacean
-iso-3,Crustacean
-iso-4,Crustacean
-iso-5,Crustacean
-iso-6,Crustacean
-iso-7,Crustacean
-iso-8,Crustacean
-iso-9,Crustacean
-cum-1,Crustacean
-anem-1,Cnidaria
-anem-2,Cnidaria
-por-1,Sponge 
-echn-1,Echinoderm
-brach-1,Brachiopod
-schaph-1,Mollusc
-fish-1,Chordata
+ID,Group,Synonymies,Phylum,Class,Order,Family,Genus,species,Confirmed,Notes,Trophic_Role,Feeding_Mode,Feeding_Group,Feeding_Specificity,Evidence_for_trophic_role,Rouse_genetic_id
+xylo-1,Xylophaga,"xylo-4, xylo-8",Mollusca,Bivalvia,Myida,Xylophagaidae ,Xyloredo,sp. 1,Yes,,wood-obligate,,wood-obligate,wood,Turner 1973; Voight 2015,
+xylo-2,Xylophaga,,Mollusca,Bivalvia,Myida,Xylophagaidae ,Abidtoconus,cf. brava,Yes,,wood-POM-mixotroph,,mixotrophic,,Turner 1973; Voight 2015; Voight 2020,
+xylo-3,Xylophaga,,Mollusca,Bivalvia,Myida,Xylophagaidae ,Spiniapex,gilsonorum,Yes,,wood-obligate,,wood-obligate,wood,Turner 1973; Voight 2015,
+xylo-5,Xylophaga,Xylo-6,Mollusca,Bivalvia,Myida,Xylophagaidae ,Xylopholas,sp. 5,Yes,,wood-obligate,,wood-obligate,wood,Turner 1973; Voight 2015,
+xylo-7,Xylophaga,,Mollusca,Bivalvia,Myida,Teredinidae,Bankia ,sp. 7,Yes,,wood-obligate,,wood-obligate,wood,Turner 1973; Voight 2015,
+xylo-9,Xylophaga,,Mollusca,Bivalvia,Myida,Xylophagaidae ,Xylophaga,sp. 9,Yes,,wood-obligate,,wood-obligate,wood,Turner 1973; Voight 2015,
+xylo-10,Xylophaga,,Mollusca,Bivalvia,Myida,Xylophagaidae ,Xylonora,sp. 10,Yes,,wood-obligate,,wood-obligate,wood,Turner 1973; Voight 2015,
+xylo-11,Xylophaga,,Mollusca,Bivalvia,Myida,Xylophagaidae ,Xylophaga,sp. 11,Yes,,wood-obligate,,wood-obligate,wood,Turner 1973; Voight 2015,
+xylo-12,Xylophaga,,Mollusca,Bivalvia,Myida,Xylophagaidae ,Xylophaga,sp. 12,Yes,,wood-obligate,,wood-obligate,wood,Turner 1973; Voight 2015,
+xylo-13,Xylophaga,,Mollusca,Bivalvia,Myida,Xylophagaidae ,Xylophaga,sp. 13,Yes,,wood-obligate,,wood-obligate,wood,Turner 1973; Voight 2015,
+xylo-15,Xylophaga,,Mollusca,Bivalvia,Myida,Xylophagaidae ,Xylonora,sp. 1 AC78,Yes,,wood-obligate,,wood-obligate,wood,Turner 1973; Voight 2015,
+xylo-16,Xylophaga,,Mollusca,Bivalvia,Myida,Xylophagaidae ,Xylophaga,spp.,Yes,,wood-obligate,,wood-obligate,wood,Turner 1973; Voight 2015,
+xylo-17,Xylophaga,,Mollusca,Bivalvia,Myida,Xylophagaidae ,,sp. 17,,Xylophaga c.f. dorsalis,wood-obligate,,wood-obligate,wood,Turner 1973; Voight 2015,
+xylo-18,Xylophaga,,Mollusca,Bivalvia,Myida,Xylophagaidae ,,sp. 18,,,wood-obligate,,wood-obligate,wood,Turner 1973; Voight 2015,
+xylo-19,Xylophaga,,Mollusca,Bivalvia,Myida,Xylophagaidae ,,,,,wood-obligate,,wood-obligate,wood,Turner 1973; Voight 2015,
+gas-1,Gastropod,,Mollusca,Gastropoda,Trochida,Liotiidae,Cyclostrema,pompholyx,Yes,species yellow,deposit-feeder,,,,Rex 1976,
+gas-2,Gastropod,"gas-5, gas-11, gas-12",Mollusca,Gastropoda,Neogastropoda,Raphitomidae,Lusitanops ,cf. cingulatus,Yes,species ribbed,predator,,,,Souza 2018 (dissertation),
+gas-3,Gastropod,,Mollusca,Gastropoda,Caenogastropoda,Provannidae,Cordesia ,atlantica,Yes,species waffle,bacterial-mat-grazer,grazer,bacteriovore,,Souza 2021; Waren & Bouchet 2009,
+gas-4,Gastropod,,Mollusca,Gastropoda,Trochida,Skeneidae,Dillwynella ,voightae,Yes,species pearl,bacterial-mat-grazer,grazer,bacteriovore,,Marshall 1988,
+gas-6,Gastropod,,Mollusca,Gastropoda,Neogastropoda,Columbellidae,,,,,predator,,,,deMaintenon and Strong 2022,
+gas-7,Gastropod,,Mollusca,Gastropoda,Seguenziida,Seguenzioidea,Moelleriopsis ,sp. 7,Yes,,,,,,,
+gas-8,Gastropod,,Mollusca,Gastropoda,Neogastropoda,Columbellidae,Astyris,,Yes,potentially in genus Astyris but unconfirmed ,predator ,,,,deMaintenon and Strong 2022,
+gas-9,Gastropod,,Mollusca,Gastropoda,Neogastropoda,Muricidae,Pagodula ,aculeata,Yes,,predator,,,,Houart and Sellanes 2006; Marshall and Houart 2011,
+gas-10,Gastropod,,Mollusca,Gastropoda,Caenogastropoda,Nystiellidae,Eccliseogyra,cf. maracatu,Yes,,cindarian-predator,predator,carnivore,cnidarians,Lima and Christoffersen 2013,
+gas-13,Gastropod,,Mollusca,Gastropoda,Littorinimorpha,Eulimidae,Pelseneeria,,,,parasitic,parasitic,parasitic,echinoderms,Waren 1983; Pastorino and Zelaya 2001,
+gas-14,Gastropod,,Mollusca,Gastropoda,Neogastropoda,Muricidae,Trophon,cf. muricatus,,,predator,,,,Houart and Sellanes 2006; Marshall and Houart 2011,
+limp-1,Gastropod,limp-2,Mollusca,Gastropoda,Lepetellida,Pseudococculinidae ,Amphiplica ,plutonica,Yes,ringed,wood-obligate,grazer,wood-obligate,wood,Leal and Harasewych 1999,
+limp-3,Gastropod,,Mollusca,Gastropoda,Lepetellida,Pseudococculinidae ,Amphiplica ,cf. venezuelensis ,Yes,,wood-obligate,grazer,wood-obligate,wood,Leal and Harasewych 1999,
+limp-4,Gastropod,,Mollusca,Gastropoda,Cocculinida,Cocculinidae,Cocculina ,fenestrata,Yes,,wood-obligate,grazer,wood-obligate,wood,Ardila and Harasewych 2005,
+limp-5,Gastropod,,Mollusca,Gastropoda,,,,,,,,,,,,
+limp-6,Gastropod,,Mollusca,Gastropoda,Lepetellida,Pseudococculinidae ,Copulabyssia ,leptalea,Yes,,wood-obligate,grazer,wood-obligate,wood,Ardila and Harasewych 2005,
+limp-7,Gastropod,,Mollusca,Gastropoda,,,,,,,,,,,,
+biv-1,Bivalve,,Mollusca,Bivalvia,,,,,,,suspension-feeder,,,,"occur only on exterior of logs, assuming not deposit feeders",
+biv-2,Bivalve,,Mollusca,Bivalvia,,,,,,,suspension-feeder,,,,"occur only on exterior of logs, assuming not deposit feeders",
+biv-3,Bivalve,,Mollusca,Bivalvia,,,,,,,suspension-feeder,,,,"occur only on exterior of logs, assuming not deposit feeders",
+biv-4,Bivalve,,Mollusca,Bivalvia,,,,,,,suspension-feeder,,,,"occur only on exterior of logs, assuming not deposit feeders",
+biv-5,Bivalve,,Mollusca,Bivalvia,,,,,,,,,,,,
+idas-1,Bivalve,idas-2,Mollusca,Bivalvia,Mytilida,Mytillidae,Idas,,Yes,spiked,chemosynthetic,,,,Southward 2008,
+idas-3,Bivalve,,Mollusca,Bivalvia,Mytilida,Mytillidae,Idas,,Yes,,chemosynthetic,,,,Southward 2009,
+idas-4,Bivalve,,Mollusca,Bivalvia,Mytilida,Mytillidae,Idas,,Yes,,chemosynthetic,,,,Southward 2010,
+idas.L,Bivalve,,Mollusca,Bivalvia,Mytilida,Mytillidae,Idas,,no,thick,chemosynthetic,,,,Southward 2011,
+polyplac-1,Mollusc,,Mollusca,Polyplacophora,Lepidopleurida,Leptochitonidae,,,,,wood-obligate,,wood-obligate,wood,Sirenko 2004,
+aplac-1,Mollusc,aplac-2,Mollusca,Solenogastres,,Pruvotinidae,,sp. 1,Yes,,predator,,,,Zamarro et al 2013; Brusca et al (invert textbook),
+aplac-3,Mollusc,,Mollusca,Solenogastres,,Pruvotinidae,,sp. 3,Yes,,predator,,,,Zamarro et al 2013; Brusca et al (invert textbook),
+schaph-1,Mollusc,,Mollusca,Scaphopoda,,,,,,,deposit-feeder,,,,Brusca et al (invert textbook),
+poly-H,Polychaeta,"poly-8, poly-35, poly-81, poly-12, poly-60=poly-35, poly-9=poly-8",Annelida,Polychaeta,Phyllodocida ,Hesionidae,,,,"includes at least Sirsoe maximiano, Vrijenhokeia sp.",bacteriovore,,,,GR personal comm.,
+poly-2,Polychaeta,,Annelida,Polychaeta,Phyllodocida ,Nereididae,,sp. 2,,"""Arrow""; likely Neanthes sp.",bacteriovore,,,,GR personal comm.,
+poly-5,Polychaeta,"poly-65, poly-70,  poly-84, poly-88, poly-89, poly-30, poly-22",Annelida,Polychaeta,Phyllodocida ,Chrysopetalidae,Strepternos,didymopyton,Yes,"""Golden""",xylo-predator,,,,Watson Russell 1991; Rouse et al 2022; Jumars et al 2015; Turner 1978; observation on our logs,"poly6531, A13775, A13776, A13777, A13778, A13779, A13780"
+poly-6,Polychaeta,poly-28,Annelida,Polychaeta,Phyllodocida ,Nereididae,Nereis/Neanthes,sp. nov. 1 and sp. nov. 2 ,Yes,,bacteriovore,,,,GR personal comm.; dissected gut,"A13781
+A13782
+A13783
+A13784
+A13785"
+poly-7,Polychaeta,,Annelida,Polychaeta,Phyllodocida ,Hesionidae,Leocretes,,,"""Big Mouth""",predator,,,,GR personal comm.,
+poly-10,Polychaeta,"poly-37, poly-59, poly-3, poly-1, poly-45, poly-67",Annelida,Polychaeta,Capitellida,Capitellidae,Capitella ,spp.,Yes,"""Big Beefy""",deposit-feeder,,,,Fauchald & Jumars 1979; Rouse et al 2022; Jumars et al 2015,
+poly-11,Polychaeta,"poly-61, poly-87, includes some poly-66",Annelida,Polychaeta,Phyllodocida ,Phyllodocidae,,,,"""Circular saw mouth""",predator,,,,Fauchald & Jumars 1979; Rouse et al 2022; Jumars et al 2015,
+poly-14,Polychaeta,poly-38,Annelida,Polychaeta,Phyllodocida ,Glyceridae,,,,"""Star Nose""",predator,,,,Fauchald & Jumars 1979; Rouse et al 2022; Jumars et al 2015,
+poly-15,Polychaeta,"Poly 109, Poly 110",Annelida,Polychaeta,Terebellida,Maldanidae,Niomache,sp. nov. ,Yes,,deposit-feeder,,,,Fauchald & Jumars 1979; Rouse et al 2022; Jumars et al 2015,
+poly-16,Polychaeta,"poly-27, poly-75, poly-46",Annelida,Polychaeta,Spionida ,Spionidae ,Prionospio ,sp. nov. ,Yes,confirmed by greg,deposit feeding bacteriovore,,,,GR personal comm.,
+poly-20,Polychaeta,"Poly-34, Poly-50, Poly-52, poly-19, poly-86",Annelida,Polychaeta,Terebellida,Ampharetidae ,,spp.,,,deposit-feeder,,,,Fauchald & Jumars 1979; Rouse et al 2022; Jumars et al 2015,
+poly-24,Polychaeta,poly-58,Annelida,Polychaeta,Phyllodocida ,Polynoidae ,Leucia ,sp. cf. violacea,Yes,,bacterial-mat-grazer or predator,,,,Jumars et al 2015; GR personal comm.,
+poly-25,Polychaeta,"poly-53, poly-56, includes some poly-66",Annelida,Polychaeta,Phyllodocida ,Phyllodocidae,Sige,sp.,Yes,,predator,,,,Fauchald & Jumars 1979; Rouse et al 2022; Jumars et al 2015,poly5613
+poly-26,Polychaeta,,Annelida,Polychaeta,Terebellida,Flabelligeridae,,,,"""Fuzzy Lollipop""",deposit-feeder,,,,GR personal comm.,
+poly-29,Polychaeta,"poly-33, poly-44, poly-77",Annelida,Polychaeta,,,,,,"""Quad Mouth""; possibly Bathyspio sp. nov.",deposit-feeder,,,,GR personal comm.,
+poly-31,Polychaeta,poly-32,Annelida,Polychaeta,Phyllodocida ,Hesionidae,,,,"""Pointy Head""; possibly juvenile Leocretes",predator,,,,GR personal comm.,
+poly-47,Polychaeta,"poly-48, poly-39",Annelida,Polychaeta,Eunicida,Dorvilleidae,Ophryotrocha ,sp. nov. ,Yes,,bacterial-mat-grazer,,,,GR personal comm.,
+poly-51,Polychaeta,poly-41,Annelida,Polychaeta,Sabellida,Serpulidae,,,,calcium carbonate tube builder ,suspension-feeder,,,,Fauchald & Jumars 1979; Rouse et al 2022; Jumars et al 2015,
+poly-55,Polychaeta,,Annelida,Polychaeta,Cirratulida,Cirratulidae,,,,,deposit-feeder,,,,Fauchald & Jumars 1979; Rouse et al 2022; Jumars et al 2015,
+poly-57,Polychaeta,poly-4,Annelida,Polychaeta,Amphinomida,Amphinomidae,Cryptonome,sp.,,"""Teddy Bear""",xylo-predator,,,,observation on our logs; Rouse et al 2022,
+poly-62,Polychaeta,,Annelida,Polychaeta,Eunicida,Lumbrineridae,,,,"""Pope Worm""",,,,,,
+poly-63,Polychaeta,,Annelida,Polychaeta,Phyllodocida ,Polynoidae ,Peinaleopolynoe ,sp. nov. ,Yes,,bacterial-mat-grazer or predator,,,,Jumars et al 2015; GR personal comm.,"poly6310, poly6331,  poly637, poly634, poly6334"
+poly-68,Polychaeta,,Annelida,Polychaeta,Spionida ,Spionidae ,,,,"""horns""",deposit feeding bacteriovore,,,,GR personal comm.,
+poly-72,Polychaeta,,Annelida,Polychaeta,,,,,,,,,,,,
+poly-73,Polychaeta,,Annelida,Polychaeta,Phyllodocida ,Pilargidae,,,,,burrowing carnivore,,,,Jumars et al 2015; Rouse et al 2022,
+poly-78,Polychaeta,,Annelida,Polychaeta,Phyllodocida ,Syllidae,Autolytus,sp.,,"""red eyes""; epitoke",predator,,,,GR personal comm.,
+poly-79,Polychaeta,,Annelida,Polychaeta,Cirratulida,Cirratulidae,,,,"""Clumpy""",deposit-feeder,,,,Fauchald & Jumars 1979; Rouse et al 2022; Jumars et al 2015,
+poly-83,Polychaeta,,Annelida,Polychaeta,Phyllodocida ,Polynoidae ,Macellicephala,sp.,,,bacterial-mat-grazer or predator,,,,Jumars et al 2015; GR personal comm.,
+poly-85,Polychaeta,,Annelida,Polychaeta,Eunicida,Eunicidae,Eunice,sp.,,"""Long Boy""",predator,,,,GR personal comm.,
+poly-90,Polychaeta,,Annelida,Polychaeta,Phyllodocida ,Chrysoptelidae,Vigtorniella,sp. nov.,Yes,,bacterial-mat-grazer,,,,Jumars et al 2015 shows other species in this genus feed on bacterial mats especially on whale falls,
+poly-91,Polychaeta,,Annelida,Polychaeta,,Opheliidae,,,,"""Spikey Tail""",deposit feeding bacteriovore,,,,GR personal comm.,
+poly-94,Polychaeta,,Annelida,Polychaeta,,Opheliidae,,,,"""Spikey Tail’s Longer Cousin""",deposit feeding bacteriovore,,,,GR personal comm.,
+poly-95,Polychaeta,,Annelida,Polychaeta,Cirratulida,Cirratulidae,,,,,deposit-feeder,,,,Fauchald & Jumars 1979; Rouse et al 2022; Jumars et al 2015,
+poly-96,Polychaeta,,Annelida,Polychaeta,Terebellida,Acrocirridae,Acrocirrus or Macrochaeta,,,"""Spikey Earthworm""",deposit-feeder,,,,GR personal comm.,
+poly-97,Polychaeta,,Annelida,Polychaeta,Phyllodocida ,Syllidae,,,,,predator,,,,GR personal comm.,
+poly-98,Polychaeta,,Annelida,Polychaeta,,Cossuridae,Cossura,sp.,Yes,,deposit-feeder,,,,Fauchald & Jumars 1979; Rouse et al 2022; Tzetlin 1994; Jumars et al 2015,
+poly-99,Polychaeta,,Annelida,Polychaeta,Phyllodocida ,Syllidae,,,,epitoke,predator,,,,GR personal comm.,
+poly-101,Polychaeta,,Annelida,Polychaeta,Phyllodocida ,Phyllodocidae,Eulalia,sp.,,,predator,,,,Fauchald & Jumars 1979; Rouse et al 2022; Jumars et al 2015,
+poly-102,Polychaeta,,Annelida,Polychaeta,,,,,,,,,,,,
+poly-103,Polychaeta,,Annelida,Polychaeta,Capitellida,Capitellidae,Mediomastus,sp.,,,deposit-feeder,,,,Fauchald & Jumars 1979; Rouse et al 2022; Jumars et al 2015,
+poly-104,Polychaeta,,Annelida,Polychaeta,Terebellida,Trichobranchidae,Terebellides,sp.,,,deposit-feeder,,,,GR personal comm.,
+poly-105,Polychaeta,,Annelida,Polychaeta,,,,,,,deposit-feeder,,,,GR personal comm.,
+poly-106,Polychaeta,"poly-36, poly-100",Annelida,Polychaeta,Spionida ,Spionidae ,Aonides,sp.,,,deposit feeding bacteriovore,deposit-feeder,bacteriovore,,GR personal comm.,
+poly-107,Polychaeta,,Annelida,Polychaeta,,,,,,,deposit-feeder,,,,GR personal comm.,
+poly-108,Polychaeta,,Annelida,Polychaeta,,,,,,,,,,,,
+poly-111,Polychaeta,,Annelida,Polychaeta,Cirratulida,Cirratulidae,,,,,deposit-feeder,,,,Fauchald & Jumars 1979; Rouse et al 2022; Jumars et al 2015,
+poly-112,Polychaeta,,Annelida,Polychaeta,,,,,,cone in cone segment,,,,,,
+poly-113,Polychaeta,,Annelida,Polychaeta,Terebellida,Acrocirridae,,,,hooked chaetae ,deposit-feeder,,,,GR personal comm.,
+poly-114,Polychaeta,,Annelida,Polychaeta,,Orbiniidae,,,,,deposit-feeder,,,,Rouse et al 2022; Jumars et al 2015,
+poly-115,Polychaeta,,Annelida,Polychaeta,,,,,,amorphous ,deposit-feeder,,,,most likely given morphology and likely family assignment of Capitellidae,
+poly-116,Polychaeta,,Annelida,Polychaeta,,,,,,,predator,,,,most likely given potential family assignments by GR,
+poly-117,Polychaeta,,Annelida,Polychaeta,Eunicida,Eunicidae,,,,,predator,,,,GR personal comm.,
+poly-118,Polychaeta,,Annelida,Polychaeta,Phyllodocida ,Phyllodocidae,,,,,predator,,,,Fauchald & Jumars 1979; Rouse et al 2022; Jumars et al 2015,
+poly-119,Polychaeta,,Annelida,Polychaeta,,,,,,,,,,,"if turns out to be chaetopterid, suspension-feeder",
+poly-120,Polychaeta,,Annelida,Polychaeta,,,,,,,,,,,,
+poly-121,Polychaeta,,Annelida,Polychaeta,Phyllodocida ,Syllidae,,,,,predator,,,,GR personal comm.,
+poly-122,Polychaeta,,Annelida,Polychaeta,,,,,,,,,,,,
+poly-123,Polychaeta,,Annelida,Polychaeta,,,,,,,,,,,,
+poly-124,Polychaeta,,Annelida,Polychaeta,Phyllodocida ,Sphaerodoridae,,,,,predator or parasite,,,,Jumars et al 2015; Rouse et al 2022,
+int-poly,Polychaeta,,Annelida,Polychaeta,Eunicida,Oenonidae,Pholadiphila,turnerae,Yes,the polys living in xylos,parasitic,parasitic,parasitic,,Dean 1992; Rouse et al 2022,
+sib-1,Polychaeta,poly-40,Annelida,Polychaeta,Sabellida,Siboglinidae,,,,likely Sclerolinum sp. ,chemosynthetic,chemosynthetic,thiotrophic,,Rouse et al 2022; Bienhold 2013; Georgieva 2015,
+ech-1,Worms,,Annelida,Polychaeta,Capitellida,Thalassematidae,,,,echiuran,deposit-feeder,,,,Rouse et al 2022; Jumars 2015,
+oli-1,Worms,,Annelida,Polychaeta,Oligochaeta,Clitellata,,,,,,,,,,
+sip-1,Worms,"sip-1, 2, 3, 4, 6, 7, 8, holo-4",Annelida,Polychaeta,Sipuncula,Phascolosomatidae,Phascolosoma,c.f. turnerae,Yes,"head of crowns; only Sip-3 positively identified to species; Sip-1 -2 and -4 confirmed by Shulze to be in the genus Phascolosoma; Sip-6, -7, -8 also believed to be Phascolosoma but this is not confirmed by Shulze ",deposit-feeder,,,,Rouse et al 2022; Rice 1985,
+nem-1,Worms,nem-2(proboscis of nem-1),Nemertea,,,,,,,,predator,,,,Brusca et al (invert textbook),
+nem-3,Worms,,Nemertea,,,,,,,,predator,,,,Brusca et al (invert textbook),
+nem-4,Worms,,Nemertea,,,,,,,,predator,,,,Brusca et al (invert textbook),
+nem-5,Worms,,Nemertea,,,,,,,,predator,,,,Brusca et al (invert textbook),
+platy-1,Platyhelminth,,Platyhelminthes,,Polycladida,,,,,,xylo-predator,predator,carnivore,xylophagaid_bivalves,Quiroga et al 2008; Quiroga et al 2006,
+echn-1,Echinoderm,,Echinodermata,Echinoidea,,,,,,possibly Asterechinus sp.,grazer,,,,,
+ast-1,Echinoderm,,Echinodermata,Asteroidea,Velatida,Caymanostellidae,Caymanostella,,,Possibly Caymanostella sp,bacterial-mat-grazer,grazer,bacteriovore,,Dilman et al 2022,
+ast-2,Echinoderm,,Echinodermata,Asteroidea,Velatida,Caymanostellidae,Caymanostella,,,,bacterial-mat-grazer,,,,Dilman et al 2022,
+ast-3,Echinoderm,,Echinodermata,Asteroidea,,,,,,,,,,,,
+xyloplax-1,Echinoderm,,Echinodermata,Asteroidea,Peripodida,Xyloplacidae,Xyloplax,,,xyloplax. L-B-13,,,,,,
+ophi-1,Echinoderm,,Echinodermata,Ophiuroidea,,,,,,,,,,,,
+ophi-2,Echinoderm,,Echinodermata,Ophiuroidea,,,,,,,,,,,,
+ophi-3,Echinoderm,,Echinodermata,Ophiuroidea,,,,,,,,,,,,
+ophi-4,Echinoderm,,Echinodermata,Ophiuroidea,,,,,,,,,,,,
+ophi-5,Echinoderm,,Echinodermata,Ophiuroidea,,,,,,,,,,,,
+holo-2,Echinoderm,,Echinodermata,Holothuroidea,,,,,,,deposit-feeder,,,,Brusca et al (invert textbook); assuming not suspension feeders,
+holo-3,Echinoderm,holo-2,Echinodermata,Holothuroidea,,,,,,,deposit-feeder,,,,Brusca et al (invert textbook); assuming not suspension feeders,
+holo-5,Echinoderm,,Echinodermata,Holothuroidea,,,,,,,deposit-feeder,,,,Brusca et al (invert textbook); assuming not suspension feeders,
+barn-1,Crustacean,,Arthropoda,Thecostraca,,,,,,,suspension-feeder,,,,Brusca et al (invert textbook),
+tan-1,Crustacean,,Arthropoda,Malacostraca,Tanaidacea,Pseudotanaidae,,sp. 1,Yes,,,,,,,
+tan-2,Crustacean,,Arthropoda,Malacostraca,Tanaidacea,Leptocheliidae,Mesotanais,sp. 2,Yes,,,,,,,
+tan-3,Crustacean,,Arthropoda,Malacostraca,Tanaidacea,,,,,,,,,,,
+tan-4,Crustacean,,Arthropoda,Malacostraca,Tanaidacea,,,,,,,,,,,
+tan-5,Crustacean,,Arthropoda,Malacostraca,Tanaidacea,,,,,,,,,,,
+amph-1,Crustacean,,Arthropoda,Malacostraca,Amphipoda,Valettiopsidae,Valettiopsis,lincolni,Yes,,scavenger,,,,Lowry and Broyer 2008,
+amph-2,Crustacean,"amph-3, amph-5, amph-6, amph-8, amph-7",Arthropoda,Malacostraca,Amphipoda,Tryphosidae,Paronesimoides ,sp. aff. voightae,Yes,,,,,,,
+amph-9,Crustacean,,Arthropoda,Malacostraca,Amphipoda,Calliopiidae,Leptamphopus ,sp. nov. aff. fragilis,Yes,,,,,,,
+amph-10,Crustacean,,Arthropoda,Malacostraca,Amphipoda,,,,,,,,,,,
+amph-11,Crustacean,,Arthropoda,Malacostraca,Amphipoda,,,,,,,,,,,
+amph-12,Crustacean,,Arthropoda,Malacostraca,Amphipoda,,,,,,,,,,,
+amph-13,Crustacean,,Arthropoda,Malacostraca,Amphipoda,,,,,,,,,,,
+amph-14,Crustacean,amph-15,Arthropoda,Malacostraca,Amphipoda,,,,,,,,,,,
+amph-16,Crustacean,,Arthropoda,Malacostraca,Amphipoda,,,,,,,,,,,
+amph-17,Crustacean,,Arthropoda,Malacostraca,Amphipoda,,,,,,,,,,,
+amph-18,Crustacean,,Arthropoda,Malacostraca,Amphipoda,,,,,,,,,,,
+gal-1,Crustacean,"gal-2, 3, 4, 5, 6, 7",Arthropoda,Malacostraca,Decapoda,Munidopsidae,Munidopsis, geyeri,Yes,,grazer,,,,Hoyoux et al 2012,
+deca-1,Crustacean,,Arthropoda,Malacostraca,Decapoda,,,,Yes,"megalopal larval stage of brachyuran crab, likely family grapsoid, pseudorhombilid, or geryonid",suspension-feeder,,,,Perez et al 2023,
+deca-2,Crustacean,,Arthropoda,Malacostraca,Decapoda,Geryonidae,Chaceon,cf. quinquedens,Yes,juvenile red crab,predator,,,,NOAA NMFS-NE-163; Farlow 1980,
+iso-1,Crustacean,,Arthropoda,Malacostraca,Isopoda,Munnidae ,Zoromunna ,sp. nov.,Yes,thick,,,,,,
+iso-2,Crustacean,"iso-6, iso-7",Arthropoda,Malacostraca,Isopoda,Janiridae,Janiridae,sp.,Yes,,,,,,,
+iso-3,Crustacean,,Arthropoda,Malacostraca,Isopoda,Paramunnidae ,aff. Notoxenoides ,gen. et sp. nov.,Yes,Serolis flat type; potenitially new genus and species,,,,,,
+iso-4,Crustacean,,Arthropoda,Malacostraca,Isopoda,Bopyroidea,,,,,parasitic,,,crustaceans,Williams and Boyko 2012,
+iso-8,Crustacean,,Arthropoda,Malacostraca,Isopoda,Janiridae† ,Janiralata ,sp. nov.,Yes,,,,,,,
+iso-9,Crustacean,,Arthropoda,Malacostraca,Isopoda,Munnopsidae ,Eurycope ,sp. Nov.,Yes,,,,,,,
+cum-1,Crustacean,,Arthropoda,Malacostraca,Cumacea,,,,,,deposit-feeder,,,,Brusca et al (invert textbook),
+cum-2,Crustacean,,Arthropoda,Malacostraca,Cumacea,,,,,,deposit-feeder,,,,Brusca et al (invert textbook),
+cum-3,Crustacean,,Arthropoda,Malacostraca,Cumacea,,,,,,deposit-feeder,,,,Brusca et al (invert textbook),
+anem-1,Cnidaria,,Cnidaria,Anthozoa,Actiniaria,,,,,,suspension-feeder,,,,Brusca et al (invert textbook),
+anem-2,Cnidaria,,Cnidaria,Anthozoa,Actiniaria,Actinoscyphiidae,Actinoscyphia,,,fly-trap,suspension-feeder,,,,Ammons and Daly 2008,
+hyd-1,Cnidaria,,Cnidaria,Hydrozoa,Leptothecata,,,,,feather,suspension-feeder,,,,Brusca et al (invert textbook),
+hyd-2,Cnidaria,,Cnidaria,Hydrozoa,Leptothecata,,,,,branched,suspension-feeder,,,,Brusca et al (invert textbook),
+hyd-3,Cnidaria,,Cnidaria,Hydrozoa,Leptothecata,,,,,single,suspension-feeder,,,,Brusca et al (invert textbook),
+hyd-4,Cnidaria,,Cnidaria,Hydrozoa,Anthothecata,,,,,amorphous ,suspension-feeder,,,,Brusca et al (invert textbook),
+hyd-5,Cnidaria,,Cnidaria,Hydrozoa,Leptothecata,,,,,nested,suspension-feeder,,,,Brusca et al (invert textbook),
+hyd-6,Cnidaria,,Cnidaria,Hydrozoa,Leptothecata,,,,,elongate ,suspension-feeder,,,,Brusca et al (invert textbook),
+por-1,Sponge ,,Porifera,,,,,,,,suspension-feeder,,,,Brusca et al (invert textbook),
+brach-1,Brachiopod,,Brachiopoda,,,,,,,,suspension-feeder,,,,Brusca et al (invert textbook),
+fish-1,Chordata,,Chordata,Teleostei,,,,,,,,,,,,

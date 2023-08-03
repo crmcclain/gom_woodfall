@@ -1,25 +1,196 @@
-tag number,tag color,experiment,Log ID,deployment_dive,site,deployement date,latitude,longitude,depth,deployment row,deployment column,wood type,length,max diameter,min diameter,wood mass final,notes,weight_wood_zip,weight_packet_total_1,weight_wood_only,weight_wrap_only,weight_zip,zip tie length,weight_packet_total_2,collection_date,collection_dive,weight_final,completion_date,processor,Status
-1,Green,Site 1,L-G-1,GE2,WF1,5/27/17,27.13499,89.9243544,2171,4,1,Pinus elliottii,31.2,8.7,8.5,0.91,,1.01,1.18,0.9946,0.1854,0.0154,4,1.1,2/16/19,GE11,0.61,,,Collected
-4,Green,Site 1,L-G-4,GE2,WF1,5/27/17,27.13499,89.9243544,2171,11,1,Pinus elliottii,23.5,10.9,10.5,1.06,,1.44,1.6,1.4246,0.1754,0.0154,4,1.24,2/16/19,GE11,0.72,,,Sorted
-7,Green,Site 1,L-G-7,GE2,WF1,5/27/17,27.13499,89.9243544,2171,8,1,Pinus elliottii,26.6,10.4,10.2,1.5,,1.65,1.79,1.6346,0.1554,0.0154,4,1.66,2/16/19,GE11,1.01,,,Sorted
-10,Green,Site 1,L-G-10,GE2,WF1,5/27/17,27.13499,89.9243544,2171,7,1,Pinus elliottii,38.8,10.9,10.4,1.86,,2.06,2.25,2.0446,0.2054,0.0154,4,2.07,2/16/19,GE11,1.27,,,Sorted
-13,Green,Site 1,L-G-13,GE2,WF1,5/27/17,27.13499,89.9243544,2171,9,1,Pinus elliottii,37.7,12.6,11,2.09,,2.8,2.98,2.7616,0.2184,0.0384,3,2.31,2/16/19,GE11,1.52,,,Sorted
-16,Green,Site 1,L-G-16,GE2,WF1,5/27/17,27.13499,89.9243544,2171,5,1,Pinus elliottii,50.2,10.7,10.5,2.59,,2.86,3.03,2.8446,0.1854,0.0154,4,2.78,2/16/19,GE11,1.82,,,Sorted
-19,Green,Site 1,L-G-19,GE2,WF1,5/27/17,27.13499,89.9243544,2171,10,1,Pinus elliottii,34.6,14.5,13.8,3.75,,4.11,4.29,4.0716,0.2184,0.0384,3,3.97,2/16/19,GE11,2.81,,,Collected
-22,Green,Site 1,L-G-22,GE2,WF1,5/27/17,27.13499,89.9243544,2171,2,1,Pinus elliottii,30.5,17.8,17.3,4.03,,5.51,5.73,5.4716,0.2584,0.0384,3,4.29,2/16/19,GE11,2.93,,,Collected
-25,Green,Site 1,L-G-25,GE2,WF1,5/27/17,27.13499,89.9243544,2171,1,1,Pinus elliottii,34.1,17.8,17.5,4.17,,5.76,5.95,5.7172,0.2328,0.0428,2,4.4,2/16/19,GE11,3.17,,,Collected
-26,Green,Site 1,L-G-26,GE2,WF1,5/27/17,27.13499,89.9243544,2171,6,1,Pinus elliottii,29.5,19,18.7,4.85,,6.18,6.4,6.1646,0.2354,0.0154,4,5.09,2/16/19,GE11,3.55,,,Collected
-31,Green,Site 1,L-G-31,GE2,WF1,5/27/17,27.13499,89.9243544,2171,3,1,Pinus elliottii,48.9,19.1,19.1,7.63,,10.32,10.58,10.2772,0.3028,0.0428,2,7.93,2/16/19,GE11,7.46,,,Sorted
-34,Green,Site 1,L-G-34,GE2,WF1,5/27/17,27.13499,89.9243544,2171,12,1,Pinus elliottii,42.6,23.7,20.9,11.17,,12.6,12.84,12.549,0.291,0.051,1,11.46,2/16/19,GE11,3.32,,,Collected
-1,White,Site 1,L-W-1,GE2,WF1,5/27/17,27.13499,89.9243544,2171,4,2,Celtis laevigata,43.1,7.6,6.5,1.05,,1.11,1.29,1.0982,0.1918,0.0118,5,1.24,2/15/19,GE10,0.83,,,Collected
-4,White,Site 1,L-W-4,GE2,WF1,5/27/17,27.13499,89.9243544,2171,6,2,Celtis laevigata,40.1,10.9,10.2,1.76,,1.91,2.06,1.8946,0.1654,0.0154,4,1.93,2/15/19,GE10,1.47,,,Collected
-7,White,Site 1,L-W-7,GE2,WF1,5/27/17,27.13499,89.9243544,2171,11,2,Celtis laevigata,39.2,10.9,10.8,2.1,,2.42,2.62,2.4046,0.2154,0.0154,4,2.32,2/15/19,GE10,1.77,,,Collected
-10,White,Site 1,L-W-10,GE2,WF1,5/27/17,27.13499,89.9243544,2171,1,2,Celtis laevigata,34.4,12,11.8,2.26,,2.54,2.69,2.5246,0.1654,0.0154,4,2.43,2/15/19,GE10,1.8,,,Collected
-13,White,Site 1,L-W-13,GE2,WF1,5/27/17,27.13499,89.9243544,2171,9,2,Celtis laevigata,37.9,13.5,11.8,3.18,,3.095,3.263939394,3.0566,0.207339394,0.0384,3,3.39,2/15/19,GE10,2.55,,,Collected
-16,White,Site 1,L-W-16,GE2,WF1,5/27/17,27.13499,89.9243544,2171,3,2,Celtis laevigata,43,13.5,12.1,3.46,,3.524230769,3.68960373,3.485830769,0.20377296,0.0384,3,3.66,2/15/19,GE10,2.59,,,Collected
-19,White,Site 1,L-W-19,GE2,WF1,5/27/17,27.13499,89.9243544,2171,10,2,Celtis laevigata,36,17.4,17.1,4.85,,3.953461538,4.115268065,3.938061538,0.177206527,0.0154,4,5.03,2/15/19,GE10,4.11,,,Collected
-21,White,Site 1,L-W-21,GE2,WF1,5/27/17,27.13499,89.9243544,2171,7,2,Celtis laevigata,37.9,26.9,23.9,4.93,,5.670384615,5.817925408,5.619384615,0.198540793,0.051,1,10.26,2/15/19,GE10,4.07,,,Collected
-22,White,Site 1,L-W-22,GE2,WF1,5/27/17,27.13499,89.9243544,2171,2,2,Celtis laevigata,40.1,18.8,18.7,5.41,,4.382692308,4.540932401,4.339892308,0.201040093,0.0428,2,5.61,2/15/19,GE10,4.35,,,Collected
-25,White,Site 1,L-W-25,GE2,WF1,5/27/17,27.13499,89.9243544,2171,12,2,Celtis laevigata,43.1,19,17.4,5.96,,4.811923077,4.966596737,4.773523077,0.19307366,0.0384,3,6.15,2/15/19,GE10,4.65,,,Collected
-28,White,Site 1,L-W-28,GE2,WF1,5/27/17,27.13499,89.9243544,2171,8,2,Celtis laevigata,44.1,21.5,20.4,7.8,,5.241153846,5.392261072,5.198353846,0.193907226,0.0428,2,7.99,2/15/19,GE10,6.02,,,Collected
-34,White,Site 1,L-W-34,GE2,WF1,5/27/17,27.13499,89.9243544,2171,5,2,Celtis laevigata,39,26.6,24,10.51,,6.099615385,6.243589744,6.048615385,0.194974359,0.051,1,10.7,2/15/19,GE10,8.73,,,Sorted
+tag number,tag color,experiment,Log ID,deployment_dive,site,deployement date,latitude,longitude,depth,deployment row,deployment column,wood type,length,max diameter,min diameter,wood mass initial_kg,notes,collection_date,collection_set,collection_dive,weight_mass_final_kg
+1,Orange,aor,L-O-1,GE5,WF4,5/30/17,28.81305806,87.8153222,1970,3,1,Pinus echinata,20.3,7.8,7.8,0.57,small,,not found,,
+2,Orange,aor,L-O-2,GE5,WF4,5/30/17,28.81305806,87.8153222,1970,7,1,Pinus echinata,19.9,8,7.5,0.47,small,,not found,,
+3,Orange,aor,L-O-3,GE5,WF4,5/30/17,28.81305806,87.8153222,1970,4,1,Pinus echinata,20.2,8,7.6,0.51,small,,not found,,
+4,Orange,aor,L-O-4,GE5,WF4,5/30/17,28.81305806,87.8153222,1970,5,1,Pinus echinata,19.7,8.8,8.6,0.5,small,,not found,,
+5,Orange,aor,L-O-5,GE5,WF4,5/30/17,28.81305806,87.8153222,1970,6,1,Pinus echinata,20.6,8.7,8.1,0.48,small,,not found,,
+6,Orange,aor,L-O-6,GE5,WF4,5/30/17,28.81305806,87.8153222,1970,9,1,Pinus echinata,20,8.2,7.9,0.57,small,,not found,,
+7,Orange,aor,L-O-7,GE5,WF4,5/30/17,28.81305806,87.8153222,1970,12,1,Pinus echinata,19.9,7.9,7.7,0.45,small,,not found,,
+8,Orange,aor,L-O-8,GE5,WF4,5/30/17,28.81305806,87.8153222,1970,2,1,Pinus echinata,20.1,8.1,7.9,0.52,small,,not found,,
+9,Orange,aor,L-O-9,GE5,WF4,5/30/17,28.81305806,87.8153222,1970,10,1,Pinus echinata,19.9,8.4,8.1,0.4,small,,not found,,
+10,Orange,aor,L-O-10,GE5,WF4,5/30/17,28.81305806,87.8153222,1970,8,1,Pinus echinata,20,7.9,7.7,0.44,small,,not found,,
+11,Orange,aor,L-O-11,GE5,WF4,5/30/17,28.81305806,87.8153222,1970,1,1,Pinus echinata,20.2,7.4,7.4,0.43,small,,not found,,
+12,Orange,aor,L-O-12,GE5,WF4,5/30/17,28.81305806,87.8153222,1970,11,1,Pinus echinata,20.1,8.2,7.8,0.37,small,,not found,,
+13,Orange,aor,L-O-13,GE5,WF4,5/30/17,28.81305806,87.8153222,1970,3,2,Pinus echinata,20.4,13.4,13.2,1.36,large,,not found,,
+14,Orange,aor,L-O-14,GE5,WF4,5/30/17,28.81305806,87.8153222,1970,5,2,Pinus echinata,20.5,13.8,12.7,1.05,large,,not found,,
+15,Orange,aor,L-O-15,GE5,WF4,5/30/17,28.81305806,87.8153222,1970,12,2,Pinus echinata,21.9,14.1,13.7,1.6,large,,not found,,
+16,Orange,aor,L-O-16,GE5,WF4,5/30/17,28.81305806,87.8153222,1970,7,2,Pinus echinata,21,13.4,13.1,1.32,large,,not found,,
+17,Orange,aor,L-O-17,GE5,WF4,5/30/17,28.81305806,87.8153222,1970,10,2,Pinus echinata,20.2,14.2,13.8,1.23,large,,not found,,
+18,Orange,aor,L-O-18,GE5,WF4,5/30/17,28.81305806,87.8153222,1970,4,2,Pinus echinata,20,14.4,13.9,1.27,large,,not found,,
+19,Orange,aor,L-O-19,GE5,WF4,5/30/17,28.81305806,87.8153222,1970,8,2,Pinus echinata,21,11.5,11.4,0.91,large,,not found,,
+20,Orange,aor,L-O-20,GE5,WF4,5/30/17,28.81305806,87.8153222,1970,6,2,Pinus echinata,20.5,13.7,13.6,1.32,large,,not found,,
+21,Orange,aor,L-O-21,GE5,WF4,5/30/17,28.81305806,87.8153222,1970,11,2,Pinus echinata,20.5,12.4,11.2,0.89,large,,not found,,
+22,Orange,aor,L-O-22,GE5,WF4,5/30/17,28.81305806,87.8153222,1970,1,2,Pinus echinata,19.6,13.2,12.1,1.19,large,,not found,,
+23,Orange,aor,L-O-23,GE5,WF4,5/30/17,28.81305806,87.8153222,1970,2,2,Pinus echinata,20.5,13.8,13.8,1.18,large,,not found,,
+24,Orange,aor,L-O-24,GE5,WF4,5/30/17,28.81305806,87.8153222,1970,9,2,Pinus echinata,20.1,13.1,11.6,1.13,large,,not found,,
+37,White,Clump,L-W-37,NA,WF5,6/3/17,26.935,88.304,2046,NA,NA,Celtis laevigata,48.5,9.4,8.8,1.6,,,not collected,,
+38,White,Clump,L-W-38,NA,WF5,6/3/17,26.935,88.304,2046,NA,NA,Celtis laevigata,43.4,9.5,9.2,1.83,,,not collected,,
+39,White,Clump,L-W-39,NA,WF5,6/3/17,26.935,88.304,2046,NA,NA,Celtis laevigata,46.5,12.4,11.1,2.27,,,not collected,,
+40,White,Clump,L-W-40,NA,WF5,6/3/17,26.935,88.304,2046,NA,NA,Celtis laevigata,44.2,11.7,11.4,2.64,,,not collected,,
+41,White,Clump,L-W-41,NA,WF5,6/3/17,26.935,88.304,2046,NA,NA,Celtis laevigata,42.1,16.4,15.5,3.35,,,not collected,,
+42,White,Clump,L-W-42,NA,WF5,6/3/17,26.935,88.304,2046,NA,NA,Celtis laevigata,33.9,19.3,15.3,3.99,,,not collected,,
+43,White,Clump,L-W-43,NA,WF5,6/3/17,26.935,88.304,2046,NA,NA,Celtis laevigata,38.9,17.7,17.6,5.07,,,not collected,,
+44,White,Clump,L-W-44,NA,WF5,6/3/17,26.935,88.304,2046,NA,NA,Celtis laevigata,44.2,19.2,16.3,5.09,,,not collected,,
+45,White,Clump,L-W-45,NA,WF5,6/3/17,26.935,88.304,2046,NA,NA,Celtis laevigata,42.7,18.8,17.7,6.75,,,not collected,,
+46,White,Clump,L-W-46,NA,WF5,6/3/17,26.935,88.304,2046,NA,NA,Celtis laevigata,43.7,23.1,21.8,8.01,,,not collected,,
+47,White,Clump,L-W-47,NA,WF5,6/3/17,26.935,88.304,2046,NA,NA,Celtis laevigata,43.9,22.8,22.3,9.73,,,not collected,,
+48,White,Clump,L-W-48,NA,WF5,6/3/17,26.935,88.304,2046,NA,NA,Celtis laevigata,41.1,26.4,26.2,11.24,,,not collected,,
+11,Blue,net_nonet,L-B-11,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,9,10,Pinus echinata,29.6,24.2,23.6,7.17,net,,not collected,not collected,
+12,Blue,net_nonet,L-B-12,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,8,11,Pinus echinata,30.3,24.4,23.7,7.32,no net,,not collected,not collected,
+1,Blue,net_nonet,L-B-1,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,6,10,Pinus echinata,32,9.7,9,0.89,net,2/19/20,set2,A5056,discarded
+2,Blue,net_nonet,L-B-2,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,8,13,Pinus echinata,33.5,9.7,9.4,1.1,no net,2/19/20,set2,A5056,discarded
+3,Blue,net_nonet,L-B-3,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,1,10,Pinus echinata,39,10.9,10,1.73,net,2/19/20,set2,A5056,discarded
+4,Blue,net_nonet,L-B-4,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,10,10,Pinus echinata,42.4,11.5,10.4,1.9,no net,2/19/20,set2,A5056,discarded
+5,Blue,net_nonet,L-B-5,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,7,10,Pinus echinata,29,17.5,17.4,2.93,net,2/19/20,set2,A5056,discarded
+6,Blue,net_nonet,L-B-6,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,8,17,Pinus echinata,26.4,18.5,17.9,3.42,no net,2/19/20,set2,A5056,discarded
+7,Blue,net_nonet,L-B-7,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,8,2,Pinus echinata,35.5,17.7,14.3,4.58,net,2/19/20,set2,A5056,discarded
+8,Blue,net_nonet,L-B-8,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,2,10,Pinus echinata,42.6,17.7,16.7,4.3,no net,2/19/20,set2,A5056,discarded
+9,Blue,net_nonet,L-B-9,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,8,1,Pinus echinata,34.5,20.6,18.5,5,net,2/19/20,set2,A5056,discarded
+10,Blue,net_nonet,L-B-10,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,8,18,Pinus echinata,35.4,19.8,18.6,4.86,no net,2/19/20,set2,A5056,discarded
+1,Green,Site 1,L-G-1,GE2,WF1,5/27/17,27.13499,89.9243544,2171,4,1,Pinus elliottii,31.2,8.7,8.5,0.91,,2/16/19,set1,GE11,0.61
+4,Green,Site 1,L-G-4,GE2,WF1,5/27/17,27.13499,89.9243544,2171,11,1,Pinus elliottii,23.5,10.9,10.5,1.06,,2/16/19,set1,GE11,0.72
+7,Green,Site 1,L-G-7,GE2,WF1,5/27/17,27.13499,89.9243544,2171,8,1,Pinus elliottii,26.6,10.4,10.2,1.5,,2/16/19,set1,GE11,1.01
+10,Green,Site 1,L-G-10,GE2,WF1,5/27/17,27.13499,89.9243544,2171,7,1,Pinus elliottii,38.8,10.9,10.4,1.86,,2/16/19,set1,GE11,1.27
+13,Green,Site 1,L-G-13,GE2,WF1,5/27/17,27.13499,89.9243544,2171,9,1,Pinus elliottii,37.7,12.6,11,2.09,,2/16/19,set1,GE11,1.52
+16,Green,Site 1,L-G-16,GE2,WF1,5/27/17,27.13499,89.9243544,2171,5,1,Pinus elliottii,50.2,10.7,10.5,2.59,,2/16/19,set1,GE11,1.82
+19,Green,Site 1,L-G-19,GE2,WF1,5/27/17,27.13499,89.9243544,2171,10,1,Pinus elliottii,34.6,14.5,13.8,3.75,,2/16/19,set1,GE11,2.81
+22,Green,Site 1,L-G-22,GE2,WF1,5/27/17,27.13499,89.9243544,2171,2,1,Pinus elliottii,30.5,17.8,17.3,4.03,,2/16/19,set1,GE11,2.93
+25,Green,Site 1,L-G-25,GE2,WF1,5/27/17,27.13499,89.9243544,2171,1,1,Pinus elliottii,34.1,17.8,17.5,4.17,,2/16/19,set1,GE11,3.17
+26,Green,Site 1,L-G-26,GE2,WF1,5/27/17,27.13499,89.9243544,2171,6,1,Pinus elliottii,29.5,19,18.7,4.85,,2/16/19,set1,GE11,3.55
+31,Green,Site 1,L-G-31,GE2,WF1,5/27/17,27.13499,89.9243544,2171,3,1,Pinus elliottii,48.9,19.1,19.1,7.63,,2/16/19,set1,GE11,7.46
+34,Green,Site 1,L-G-34,GE2,WF1,5/27/17,27.13499,89.9243544,2171,12,1,Pinus elliottii,42.6,23.7,20.9,11.17,,2/16/19,set1,GE11,3.32
+1,White,Site 1,L-W-1,GE2,WF1,5/27/17,27.13499,89.9243544,2171,4,2,Celtis laevigata,43.1,7.6,6.5,1.05,,2/15/19,set1,GE10,0.83
+4,White,Site 1,L-W-4,GE2,WF1,5/27/17,27.13499,89.9243544,2171,6,2,Celtis laevigata,40.1,10.9,10.2,1.76,,2/15/19,set1,GE10,1.47
+7,White,Site 1,L-W-7,GE2,WF1,5/27/17,27.13499,89.9243544,2171,11,2,Celtis laevigata,39.2,10.9,10.8,2.1,,2/15/19,set1,GE10,1.77
+10,White,Site 1,L-W-10,GE2,WF1,5/27/17,27.13499,89.9243544,2171,1,2,Celtis laevigata,34.4,12,11.8,2.26,,2/15/19,set1,GE10,1.8
+13,White,Site 1,L-W-13,GE2,WF1,5/27/17,27.13499,89.9243544,2171,9,2,Celtis laevigata,37.9,13.5,11.8,3.18,,2/15/19,set1,GE10,2.55
+16,White,Site 1,L-W-16,GE2,WF1,5/27/17,27.13499,89.9243544,2171,3,2,Celtis laevigata,43,13.5,12.1,3.46,,2/15/19,set1,GE10,2.59
+19,White,Site 1,L-W-19,GE2,WF1,5/27/17,27.13499,89.9243544,2171,10,2,Celtis laevigata,36,17.4,17.1,4.85,,2/15/19,set1,GE10,4.11
+21,White,Site 1,L-W-21,GE2,WF1,5/27/17,27.13499,89.9243544,2171,7,2,Celtis laevigata,37.9,26.9,23.9,4.93,,2/15/19,set1,GE10,4.07
+22,White,Site 1,L-W-22,GE2,WF1,5/27/17,27.13499,89.9243544,2171,2,2,Celtis laevigata,40.1,18.8,18.7,5.41,,2/15/19,set1,GE10,4.35
+25,White,Site 1,L-W-25,GE2,WF1,5/27/17,27.13499,89.9243544,2171,12,2,Celtis laevigata,43.1,19,17.4,5.96,,2/15/19,set1,GE10,4.65
+28,White,Site 1,L-W-28,GE2,WF1,5/27/17,27.13499,89.9243544,2171,8,2,Celtis laevigata,44.1,21.5,20.4,7.8,,2/15/19,set1,GE10,6.02
+34,White,Site 1,L-W-34,GE2,WF1,5/27/17,27.13499,89.9243544,2171,5,2,Celtis laevigata,39,26.6,24,10.51,,2/15/19,set1,GE10,8.73
+35,White,Site 2,L-W-35,GE3,WF2,5/28/17,27.3126,88.927,2034,4,2,Celtis laevigata,40.5,25.9,25.6,11.33,,2/14/20,set2,A5051,
+5,Green,Site 2,L-G-5,GE3,WF2,5/28/17,27.3126,88.927,2034,1,1,Pinus elliottii,41.4,7.7,7.6,1.18,,2/20/19,set1,GE13,0.69
+11,Green,Site 2,L-G-11,GE3,WF2,5/28/17,27.3126,88.927,2034,8,1,Pinus elliottii,35.3,10.1,10,1.83,,2/20/19,set1,GE13,1.08
+20,Green,Site 2,L-G-20,GE3,WF2,5/28/17,27.3126,88.927,2034,5,1,Pinus elliottii,39.1,15,14.1,2.91,,2/20/19,set1,GE13,1.89
+23,Green,Site 2,L-G-23,GE3,WF2,5/28/17,27.3126,88.927,2034,9,1,Pinus elliottii,33.4,17.5,16.9,4.16,,2/20/19,set1,GE13,2.83
+28,Green,Site 2,L-G-28,GE3,WF2,5/28/17,27.3126,88.927,2034,6,1,Pinus elliottii,35,19.4,19,5.84,,2/20/19,set1,GE13,4
+35,Green,Site 2,L-G-35,GE3,WF2,5/28/17,27.3126,88.927,2034,3,1,Pinus elliottii,26.6,28.8,26.5,8.13,,2/20/19,set1,GE13,5.41
+2,White,Site 2,L-W-2,GE3,WF2,5/28/17,27.3126,88.927,2034,3,2,Celtis laevigata,39.2,9.5,8.9,1.45,,4/12/19,set1,GE16,1.15
+5,White,Site 2,L-W-5,GE3,WF2,5/28/17,27.3126,88.927,2034,7,2,Celtis laevigata,39.9,11.3,9.4,1.67,,4/12/19,set1,GE16,1.39
+11,White,Site 2,L-W-11,GE3,WF2,5/28/17,27.3126,88.927,2034,2,2,Celtis laevigata,37.6,12.2,11.5,2.52,,4/12/19,set1,GE16,1.97
+20,White,Site 2,L-W-20,GE3,WF2,5/28/17,27.3126,88.927,2034,10,2,Celtis laevigata,47.2,15.4,11.8,4.51,,4/12/19,set1,GE16,
+26,White,Site 2,L-W-26,GE3,WF2,5/28/17,27.3126,88.927,2034,9,2,Celtis laevigata,42.6,19.3,17.4,5.94,,4/12/19,set1,GE16,
+32,White,Site 2,L-W-32,GE3,WF2,5/28/17,27.3126,88.927,2034,5,2,Celtis laevigata,41.7,24,22.7,9.34,,4/12/19,set1,GE16,
+2,Green,Site 2,L-G-2,GE3,WF2,5/28/17,27.3126,88.927,2034,12,1,Pinus elliottii,42.7,8.7,6.6,0.9,,2/15/20,set2,A5052,0.38
+8,Green,Site 2,L-G-8,GE3,WF2,5/28/17,27.3126,88.927,2034,10,1,Pinus elliottii,28.4,9.9,9.5,1.29,,2/15/20,set2,A5052,0.55
+14,Green,Site 2,L-G-14,GE3,WF2,5/28/17,27.3126,88.927,2034,4,1,Pinus elliottii,31.5,13.9,13,3.06,,2/15/20,set2,A5052,1.59
+17,Green,Site 2,L-G-17,GE3,WF2,5/28/17,27.3126,88.927,2034,2,1,Pinus elliottii,35.1,12.8,12.6,2.15,,2/15/20,set2,A5052,1.15
+29,Green,Site 2,L-G-29,GE3,WF2,5/28/17,27.3126,88.927,2034,7,1,Pinus elliottii,35.5,19.2,19.1,5.82,,2/15/20,set2,A5052,2.94
+32,Green,Site 2,L-G-32,GE3,WF2,5/28/17,27.3126,88.927,2034,11,1,Pinus elliottii,36.1,22.1,20.7,8.51,,2/15/20,set2,A5052,4.6
+8,White,Site 2,L-W-8,GE3,WF2,5/28/17,27.3126,88.927,2034,11,2,Celtis laevigata,40,10.5,9.7,2.19,,2/14/20,set2,A5051,1.62
+14,White,Site 2,L-W-14,GE3,WF2,5/28/17,27.3126,88.927,2034,12,2,Celtis laevigata,38.1,12.4,11.4,2.53,,2/14/20,set2,A5051,
+17,White,Site 2,L-W-17,GE3,WF2,5/28/17,27.3126,88.927,2034,1,2,Celtis laevigata,39.1,15.2,14.6,3.75,,2/14/20,set2,A5051,
+23,White,Site 2,L-W-23,GE3,WF2,5/28/17,27.3126,88.927,2034,8,2,Celtis laevigata,42,18.4,16.5,4.91,,2/14/20,set2,A5051,
+29,White,Site 2,L-W-29,GE3,WF2,5/28/17,27.3126,88.927,2034,6,2,Celtis laevigata,49.5,20.6,19.9,8.54,,2/14/20,set2,A5051,
+36,White,Site 3,L-W-36,GE4,WF3,5/29/17,28.10624722,88.45064694,1986,10,2,Celtis laevigata,44.5,30.2,22.2,11.03,,2/16/20,set2,A5053,
+3,Green,Site 3,L-G-3,GE4,WF3,5/29/17,28.10624722,88.45064694,1986,11,1,Pinus elliottii,34.4,8.7,8.6,1.01,,4/15/19,set1,GE17,
+6,Green,Site 3,L-G-6,GE4,WF3,5/29/17,28.10624722,88.45064694,1986,9,1,Pinus elliottii,32.7,10.7,9,1.21,,4/15/19,set1,GE17,
+18,Green,Site 3,L-G-18,GE4,WF3,5/29/17,28.10624722,88.45064694,1986,3,1,Pinus elliottii,32.7,14.6,12.7,3.18,,4/15/19,set1,GE17,
+24,Green,Site 3,L-G-24,GE4,WF3,5/29/17,28.10624722,88.45064694,1986,5,1,Pinus elliottii,29.8,17.9,17.1,3.46,,4/15/19,set1,GE17,
+27,Green,Site 3,L-G-27,GE4,WF3,5/29/17,28.10624722,88.45064694,1986,8,1,Pinus elliottii,27.3,19.8,19.7,4.85,,4/15/19,set1,GE17,
+36,Green,Site 3,L-G-36,GE4,WF3,5/29/17,28.10624722,88.45064694,1986,10,1,Pinus elliottii,41.1,25.8,20.9,7.54,,4/15/19,set1,GE17,
+3,White,Site 3,L-W-3,GE4,WF3,5/29/17,28.10624722,88.45064694,1986,4,2,Celtis laevigata,39.8,9.5,8.6,1.57,,4/15/19,set1,GE17,
+6,White,Site 3,L-W-6,GE4,WF3,5/29/17,28.10624722,88.45064694,1986,12,2,Celtis laevigata,43.1,11,9.5,1.82,,4/15/19,set1,GE17,
+18,White,Site 3,L-W-18,GE4,WF3,5/29/17,28.10624722,88.45064694,1986,1,2,Celtis laevigata,39.6,15.2,12.9,3.35,,4/15/19,set1,GE17,
+24,White,Site 3,L-W-24,GE4,WF3,5/29/17,28.10624722,88.45064694,1986,6,2,Celtis laevigata,41.9,16.9,15,5.25,,4/15/19,set1,GE17,
+30,White,Site 3,L-W-30,GE4,WF3,5/29/17,28.10624722,88.45064694,1986,5,2,Celtis laevigata,42.7,22,20.4,8.85,,4/15/19,set1,GE17,
+31,White,Site 3,L-W-31,GE4,WF3,5/29/17,28.10624722,88.45064694,1986,11,2,Celtis laevigata,40.8,18.6,16.7,4.76,,4/15/19,set1,GE17,
+9,Green,Site 3,L-G-9,GE4,WF3,5/29/17,28.10624722,88.45064694,1986,12,1,Pinus elliottii,26.9,11.7,11.1,1.56,,2/16/20,set2,A5053,
+12,Green,Site 3,L-G-12,GE4,WF3,5/29/17,28.10624722,88.45064694,1986,2,1,Pinus elliottii,39.2,10.9,10.6,1.68,,2/16/20,set2,A5053,
+15,Green,Site 3,L-G-15,GE4,WF3,5/29/17,28.10624722,88.45064694,1986,1,1,Pinus elliottii,39.1,13.3,11.7,2.89,,2/16/20,set2,A5053,
+21,Green,Site 3,L-G-21,GE4,WF3,5/29/17,28.10624722,88.45064694,1986,7,1,Pinus elliottii,31.6,15.6,15.1,3.2,,2/16/20,set2,A5053,
+30,Green,Site 3,L-G-30,GE4,WF3,5/29/17,28.10624722,88.45064694,1986,4,1,Pinus elliottii,37,18.5,17.6,5.41,,2/16/20,set2,A5053,
+33,Green,Site 3,L-G-33,GE4,WF3,5/29/17,28.10624722,88.45064694,1986,6,1,Pinus elliottii,32.5,22.8,22.2,6.73,,2/16/20,set2,A5053,
+9,White,Site 3,L-W-9,GE4,WF3,5/29/17,28.10624722,88.45064694,1986,9,2,Celtis laevigata,41.6,10.9,10,2.15,,2/16/20,set2,A5053,
+12,White,Site 3,L-W-12,GE4,WF3,5/29/17,28.10624722,88.45064694,1986,2,2,Celtis laevigata,42.2,12.1,11.8,2.46,,2/16/20,set2,A5053,
+15,White,Site 3,L-W-15,GE4,WF3,5/29/17,28.10624722,88.45064694,1986,3,2,Celtis laevigata,39.1,15.7,12.1,3.19,,2/16/20,set2,A5053,
+27,White,Site 3,L-W-27,GE4,WF3,5/29/17,28.10624722,88.45064694,1986,7,2,Celtis laevigata,36.6,18,17.6,5.65,,2/16/20,set2,A5053,
+33,White,Site 3,L-W-33,GE4,WF3,5/29/17,28.10624722,88.45064694,1986,8,2,Celtis laevigata,38.5,21.8,21.1,9.41,,2/16/20,set2,A5053,
+37,Green,Site 4,L-G-37,NA,WF5,6/3/17,26.935,88.304,2046,NA,NA,Pinus echinata,41.1,9.4,8.2,1.28,,,,,
+38,Green,Site 4,L-G-38,NA,WF5,6/3/17,26.935,88.304,2046,NA,NA,Pinus echinata,48,9.7,8.9,1.79,,,,,
+39,Green,Site 4,L-G-39,NA,WF5,6/3/17,26.935,88.304,2046,NA,NA,Pinus echinata,43.5,11.6,11.3,2.28,,,,,
+40,Green,Site 4,L-G-40,NA,WF5,6/3/17,26.935,88.304,2046,NA,NA,Pinus echinata,40.9,13.3,12.4,2.67,,,,,
+41,Green,Site 4,L-G-41,NA,WF5,6/3/17,26.935,88.304,2046,NA,NA,Pinus echinata,22.3,19.4,17.8,3.12,,,,,
+42,Green,Site 4,L-G-42,NA,WF5,6/3/17,26.935,88.304,2046,NA,NA,Pinus echinata,27.5,20.7,20.4,4.27,,,,,
+43,Green,Site 4,L-G-43,NA,WF5,6/3/17,26.935,88.304,2046,NA,NA,Pinus echinata,41.4,18.4,16.8,4.91,,,,,
+44,Green,Site 4,L-G-44,NA,WF5,6/3/17,26.935,88.304,2046,NA,NA,Pinus echinata,42,18.9,17.7,5.88,,,,,
+45,Green,Site 4,L-G-45,NA,WF5,6/3/17,26.935,88.304,2046,NA,NA,Pinus echinata,44.9,21.9,18.6,6.59,,,,,
+46,Green,Site 4,L-G-46,NA,WF5,6/3/17,26.935,88.304,2046,NA,NA,Pinus echinata,33.6,23,22.7,5.36,,,,,
+47,Green,Site 4,L-G-47,NA,WF5,6/3/17,26.935,88.304,2046,NA,NA,Pinus echinata,31.9,23.9,21.9,6.67,,,,,
+48,Green,Site 4,L-G-48,NA,WF5,6/3/17,26.935,88.304,2046,NA,NA,Pinus echinata,43.5,23.6,22.9,8.24,,,,,
+20,Blue,surf_area,L-B-20,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,8,5,Pinus sp.,101.6,27.94,4.445,6.17,2*12 Plank,,not collected,,
+21,Blue,surf_area,L-B-21,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,3,10,Pinus sp.,111.76,27.94,4.445,5.87,2*12 Plank,,not collected,,
+22,Blue,surf_area,L-B-22,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,4,10,Pinus sp.,121.92,27.94,4.445,6.71,2*12 Plank,,not collected,,
+29,Blue,surf_area,L-B-29,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,8,14,Pinus sp.,51,14.2875,14.2875,5.96,6*6,,not collected,not collected,
+30,Blue,surf_area,L-B-30,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,13,10,Pinus sp.,56.7,14.2875,14.2875,6.55,6*6,,not collected,not collected,
+31,Blue,surf_area,L-B-31,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,8,15,Pinus sp.,62.3,14.2875,14.2875,6.24,6*6,,not collected,not collected,
+32,Blue,surf_area,L-B-32,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,12,10,Pinus sp.,68,14.2875,14.2875,7.11,6*6,,not collected,not collected,
+13,Blue,surf_area,L-B-13,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,8,6,Pinus sp.,30.48,27.94,4.445,1.66,2*12 Plank,2/19/20,set2,A5056,0.85
+14,Blue,surf_area,L-B-14,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,8,8,Pinus sp.,40.64,27.94,4.445,2.06,2*12 Plank,2/19/20,set2,A5056,1.07
+15,Blue,surf_area,L-B-15,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,8,9,Pinus sp.,50.8,27.94,4.445,2.81,2*12 Plank,2/19/20,set2,A5056,1.68
+16,Blue,surf_area,L-B-16,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,8,3,Pinus sp.,60.96,27.94,4.445,3.29,2*12 Plank,2/19/20,set2,A5056,1.9
+17,Blue,surf_area,L-B-17,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,8,4,Pinus sp.,71.12,27.94,4.445,4.1,2*12 Plank,2/19/20,set2,A5056,2.95
+18,Blue,surf_area,L-B-18,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,8,7,Pinus sp.,81.28,27.94,4.445,4.84,2*12 Plank,2/19/20,set2,A5056,3.38
+19,Blue,surf_area,L-B-19,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,5,10,Pinus sp.,91.44,27.94,4.445,5.55,2*12 Plank,2/19/20,set2,A5056,3.4
+23,Blue,surf_area,L-B-23,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,8,16,Pinus sp.,17,14.2875,14.2875,1.74,6*6,2/19/20,set2,A5056,0.86
+24,Blue,surf_area,L-B-24,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,16,10,Pinus sp.,22.7,14.2875,14.2875,2.5,6*6,2/19/20,set2,A5056,1.52
+25,Blue,surf_area,L-B-25,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,14,10,Pinus sp.,28.3,14.2875,14.2875,3.13,6*6,2/19/20,set2,A5056,1.48
+26,Blue,surf_area,L-B-26,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,15,10,Pinus sp.,34,14.2875,14.2875,3.84,6*6,2/19/20,set2,A5056,2.04
+27,Blue,surf_area,L-B-27,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,11,10,Pinus sp.,39.7,14.2875,14.2875,4.14,6*6,2/19/20,set2,A5056,2.68
+28,Blue,surf_area,L-B-28,GE6,WF4,5/31/17,28.81156639,87.80880806,1962,8,12,Pinus sp.,45.3,14.2875,14.2875,4.92,6*6,2/19/20,set2,A5056,2.47
+1,Yellow,wood_type,L-Y-1,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,3,5,Taxodium distichum,50.6,9.3,8.9,1.57,small,4/17/19,set1,GE19,1.36
+3,Yellow,wood_type,L-Y-3,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,5,5,Taxodium distichum,44.2,18.5,17.7,5.38,large,4/17/19,set1,GE19,4.61
+5,Yellow,wood_type,L-Y-5,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,7,5,Salix nigra,35.9,11.5,10.1,1.54,small,4/17/19,set1,GE19,1.48
+7,Yellow,wood_type,L-Y-7,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,6,4,Salix nigra,40.6,18.2,17.8,5.46,large,4/17/19,set1,GE19,3.4
+9,Yellow,wood_type,L-Y-9,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,6,2,Pinus elliottii,31.9,10.7,10.5,1.22,small,4/16/19,set1,GE18,0.57
+11,Yellow,wood_type,L-Y-11,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,2,4,Pinus elliottii,36.3,16.9,16.6,5.01,large,4/17/19,set1,GE19,2.72
+13,Yellow,wood_type,L-Y-13,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,5,1,Magnolia grandiflora,23.5,13.5,12.4,0.98,small,4/16/19,set1,GE18,0.82
+15,Yellow,wood_type,L-Y-15,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,4,3,Magnolia grandiflora,28.2,18.3,17.7,4.55,large,4/17/19,set1,GE19,4.4
+17,Yellow,wood_type,L-Y-17,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,6,1,Carya illinoiensis,37.8,8.8,8.6,1.47,small,4/16/19,set1,GE18,1.31
+19,Yellow,wood_type,L-Y-19,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,2,3,Carya illinoiensis,34.8,16.7,16,5.5,large,4/17/19,set1,GE19,4.41
+21,Yellow,wood_type,L-Y-21,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,1,2,Quercus alba,42.6,12.6,11.7,1.46,small,4/16/19,set1,GE18,1.3
+23,Yellow,wood_type,L-Y-23,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,6,5,Quercus alba,40.1,18.5,18.4,5.42,large,4/17/19,set1,GE19,4.41
+25,Yellow,wood_type,L-Y-25,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,2,2,Pinus echinata,36.8,11.6,10.1,1.84,small,4/16/19,set1,GE18,0.89
+27,Yellow,wood_type,L-Y-27,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,4,4,Pinus echinata,44.1,19.2,18.4,5.75,large,4/17/19,set1,GE19,0.58
+29,Yellow,wood_type,L-Y-29,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,4,1,Quercus rubra,40.6,10.2,9.6,1.64,small,4/16/19,set1,GE18,1.33
+31,Yellow,wood_type,L-Y-31,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,1,3,Quercus rubra,40.7,14.9,14.4,5.52,large,4/17/19,set1,GE19,4.02
+33,Yellow,wood_type,L-Y-33,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,4,2,Celtis laevigata,45.5,10.1,8.4,1.62,small,4/16/19,set1,GE18,1.32
+35,Yellow,wood_type,L-Y-35,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,5,3,Celtis laevigata,39.6,19.1,19,5.58,large,4/17/19,set1,GE19,4.71
+37,Yellow,wood_type,L-Y-37,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,2,1,Ulmus americana,32.4,13.3,10.5,1.55,small,4/16/19,set1,GE18,1.32
+39,Yellow,wood_type,L-Y-39,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,3,1,Ulmus americana,38.6,17.5,14.7,5.15,large,4/16/19,set1,GE18,4.48
+41,Yellow,wood_type,L-Y-41,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,5,2,Quercus virginiana,43.5,7.6,6.9,1.7,small,4/16/19,set1,GE18,1.56
+43,Yellow,wood_type,L-Y-43,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,7,2,Quercus virginiana,46.5,12.3,11,3.75,large,4/16/19,set1,GE18,3.7
+2,Yellow,wood_type,L-Y-2,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,1,6,Taxodium distichum,31.7,19.5,19.1,3.94,medium,2/17/20,set2,A5054,3.07
+6,Yellow,wood_type,L-Y-6,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,4,6,Salix nigra,45.7,14.3,13.1,4.05,medium,2/17/20,set2,A5054,2.21
+8,Yellow,wood_type,L-Y-8,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,7,1,Salix nigra,38.6,19.1,18.6,7.07,extralarge,2/17/20,set2,A5054,3.54
+10,Yellow,wood_type,L-Y-10,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,1,4,Pinus elliottii,37.5,13.1,13,3.4,medium,2/17/20,set2,A5054,1.54
+12,Yellow,wood_type,L-Y-12,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,8,2,Pinus elliottii,38.8,18.5,17.7,6.74,extralarge,2/17/20,set2,A5054,3.13
+14,Yellow,wood_type,L-Y-14,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,7,6,Magnolia grandiflora,34.9,12.1,11.4,3.36,medium,2/17/20,set2,A5054,3.03
+16,Yellow,wood_type,L-Y-16,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,1,1,Magnolia grandiflora,31.7,19.6,18.5,6.3,extralarge,2/17/20,set2,A5054,6.03
+18,Yellow,wood_type,L-Y-18,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,3,2,Carya illinoiensis,22.4,16.4,16.3,3.28,medium,2/17/20,set2,A5054,2.27
+20,Yellow,wood_type,L-Y-20,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,3,4,Carya illinoiensis,38.5,22.8,19.2,7.27,extralarge,2/17/20,set2,A5054,5.94
+22,Yellow,wood_type,L-Y-22,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,1,5,Quercus alba,36.4,15.1,13.5,3.59,medium,2/17/20,set2,A5054,3.08
+24,Yellow,wood_type,L-Y-24,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,3,6,Quercus alba,43.5,17.7,16.6,7.17,extralarge,2/17/20,set2,A5054,6.64
+26,Yellow,wood_type,L-Y-26,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,7,4,Pinus echinata,43,14.4,13.9,3.66,medium,2/17/20,set2,A5054,2.19
+28,Yellow,wood_type,L-Y-28,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,2,6,Pinus echinata,40.9,19.3,18.5,7.19,extralarge,2/17/20,set2,A5054,2.71
+30,Yellow,wood_type,L-Y-30,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,2,5,Quercus rubra,45,11.9,11.9,3.5,medium,2/17/20,set2,A5054,2.67
+32,Yellow,wood_type,L-Y-32,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,6,6,Quercus rubra,44,24,17.6,7.38,extralarge,2/17/20,set2,A5054,5.28
+34,Yellow,wood_type,L-Y-34,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,6,3,Celtis laevigata,38.2,17.9,17.5,3.83,medium,2/17/20,set2,A5054,3.39
+36,Yellow,wood_type,L-Y-36,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,5,6,Celtis laevigata,40.3,20.6,19,7.26,extralarge,2/17/20,set2,A5054,6.29
+38,Yellow,wood_type,L-Y-38,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,5,4,Ulmus americana,29.8,14.4,13.5,3.78,medium,2/17/20,set2,A5054,3.01
+40,Yellow,wood_type,L-Y-40,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,3,3,Ulmus americana,46.8,18.9,14.6,6.76,extralarge,2/17/20,set2,A5054,5.75
+42,Yellow,wood_type,L-Y-42,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,7,3,Quercus virginiana,36.4,12.5,11.7,3.61,medium,2/17/20,set2,A5054,3
+44,Yellow,wood_type,L-Y-44,GE5,WF4,5/30/17,28.81364194,87.82033444,1970,4,5,Quercus virginiana,41.8,15.3,15.1,7,extralarge,2/17/20,set2,A5054,5.19
